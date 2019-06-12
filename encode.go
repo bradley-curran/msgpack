@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/vmihailenco/msgpack/codes"
+	"github.com/bradley-curran/msgpack/codes"
 )
 
 type writer interface {
